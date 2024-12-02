@@ -3,7 +3,7 @@
 Este es un ejemplo básico de Crud Desarrollado con Vue 3 Composition API, Pinia para la gestión del estado global para almacenar y compartur los datos de usuarios y Firestore como base de datos para la persistencia remota.
 
 ## Demo
-[Demo](https://desafio-crud-firebase.netlify.app/)
+[Ver Demo](https://desafio-crud-firebase.netlify.app/)
 
 ## Recommended IDE Setup
 
