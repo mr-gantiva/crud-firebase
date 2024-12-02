@@ -5,7 +5,9 @@ import UserList from './components/userList.vue';
 
 <template>
   <header>
-
+    <div class="container">
+      <h1 class="text-center titulo py-5">CRUD con Firebase y Pinia</h1>
+    </div>
   </header>
 
   <main>
@@ -15,6 +17,10 @@ import UserList from './components/userList.vue';
 </template>
 
 <style scoped>
+.titulo {
+  color: #fafaf5;
+}
+
 main {
   background: rgba(255, 255, 255, 0.2);
   border-radius: 16px;
